@@ -1,0 +1,128 @@
+.divs{
+    background-color: rgb(245, 255, 153);
+    border-radius: 4px;
+    border-color: rgb(0, 255, 195);
+    border: 3px solid #000;
+    text-align: center;
+}
+body{
+    background-image: -webkit-image-set("data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxAODQ4QDwsODw4OEA0QDRAODQ8NDw8OFBEWFhUSExMYHSggGBolGxUTITEhJSkrLi4uFx8zODMtNygtLjcBCgoKBQUFDgUFDisZExkrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrK//AABEIAOEA4QMBIgACEQEDEQH/xAAZAAEBAQEBAQAAAAAAAAAAAAAAAwECBAf/xAAtEAEAAgEDAwMCBQUBAAAAAAAAARECAyExEkFRImFxMqEEQlKxwUOBgpHCI//EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwD4aAAAAAAAAAAAAAAtqerHq78VHhFfQ9uam/FAgKauFSmAAAAAAAAAAAAAAAAAAAAA3GLnmmAOs8a/j3hytHqx3nfH6YSkGAAO9PKpcAPVlj1RURUbzc93lX0cr2ntx8s18fzVV7UCIAAAAAAAAAAAAAAAAAAAAAOtPOpifDvWwre+d/j2SW0t46fPf4BEblFMAABuM0vllcXzd3Hj3edTRyrb9W0gmO9TGpn7S4AAAAAAAAAAAAAAAAAAAAAbEsAW1I6o6o2qoryippZVO/HhmrhU/cHAADWAL/Vj46fui3DKpj7w61ceJ/Vc/AJgAAAAAAAAAAADaYAAAAAAAAAvHqivz/wg6wyqQciurj3jj+UgAAFtKbice87Y+yLYmgMoqZjwxbOLi4jj6vlEAAAAAAAAAAFdGYvfhxnhMTu5Xn1Y+cv+YBAAAAAAAAAAFtLKJjpy43mPlLLGY5IkyymeQYAAADYyYAAAAAAAAAAADvTz6Zv+zgBTWwqdt423901tKbjpnjmPlKYBgAAAAAAAAAAAAAAAAAAAAAAAAAAANiVdWLjr8zX+oRU0cqv32BMd6mHTNOAAAAAAAAAAAAAAAAAAAAAAAAAAAG2wBf6sfeLmZ8wg6wyqf3+Hetj3iNp4BIAAABsMAbLAAAAAAAB3p43MR5c5RRErZ49UXEbRUT7yCAAAAAAAAAAAACmOcVMT2j0/KYAAAAAAAAAAAAAAAroanTN9u6QD0fitOpuI9MxDzvZo5deM4zvPMPLnjU1IOQAAAAAAAAAAAAAAAAAAAAAAAAAAAdYZTE3D0/iMOqIyjee9PI9H4XU/LNVP7g84rr6fTlMduyQAAAAAAAAAAAAAAAAAAAAAAAAAADYlgD2z/wCmF94383DxKaOdT9jVw6Zr7gmAAAAAAAAAAAAAA2ItjrDKpsHIrqYxzjxtfykAAAAAAAAAAAvj6sa7xc35QbEgUDAAAAAAAAAAAAAbEDccpibid1NXHvHG1/IGjN+mZ25SmKYvqeqOrvxUAgAAAAAAAAAAAAAAAAAAAAAAAAAA9H9H/IAQlX8PzIAlLAAAAAAAAAAAAAB//9k=");
+    background-color: rgb(0, 0, 0);
+}
+.tables{
+    border:5px solid black rgba(0, 0, 0, 0.938);
+    border-color: #000;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+p{
+    font-style: italic;
+    color:white;
+    text-align: center;
+    font-size:x-large;
+}
+nav{
+    border-radius: 4px;
+    border-color: black;
+    border: 3px solid #000;
+}
+.ran{
+    display: flex;
+  justify-content: center;
+}
+.bla{
+    height: 400px;
+    width: 400px;
+    border: solid rgb(245, 255, 153);
+}
+.diva{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+h2{
+    color:white
+}
+.blu{
+    height: 400px;
+    width: 480px;
+    border: solid rgb(245, 255, 153);
+}
+a{
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.blas{
+    height: 400px;
+    width: 520px;
+    border: solid rgb(245, 255, 153);
+}
+.but{
+    color:#000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+}
+.ran button{
+    width:150; 
+    height:60;
+    margin-left: 15;
+}
+.log{
+    background-color: rgb(245, 255, 153);
+    border: 3px solid #000;
+    text-align: center;
+    margin-left: 10%;
+    margin-right: 10%;
+    border-radius: 10px;
+}
+.llog{
+    background-color: rgb(90, 90, 90);
+    border: 3px solid #000;
+    text-align: center;
+    margin-left: 30%;
+    margin-right: 30%;
+    border-radius: 10px;
+}
+label{
+    font-style: italic;
+    color:white;
+    font-size:x-large;
+
+}
+.llog input{
+    display: flex;
+    flex-direction:column ;
+}
+.p{
+    text-align: start;
+    margin:2
+}
+input{
+    margin:4;
+    margin-bottom: 20;
+}
+.tl{
+    width:70%;
+    height:50%;
+}
+.tabela{
+    margin-left: 20%;
+}
+.popo{
+    width:70%;
+    height:60%;
+}
+.carro img{
+    margin-left: 1%;
+    margin-right: 1%;
+    width:10%;
+    height:20%;
+    border-color: white;
+    border: 10px;
+}
+.carro button{
+    width:70px;
+    height:60px;
+    align-items: center;
+} 
