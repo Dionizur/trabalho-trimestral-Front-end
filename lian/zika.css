@@ -126,3 +126,6 @@ input{
     height:60px;
     align-items: center;
 } 
+.album{
+    border: solid white;
+}
